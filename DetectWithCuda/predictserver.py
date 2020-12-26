@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
 
-model = load_model('C:\\Users\\Kaan\\Bitirme\\MaskeTespit\\TensorflowMaskDetection\\maskmodel.h5')
+model = load_model('maskmodel.h5')
 sock = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 sock.bind(('127.0.0.1',5002))
 os.system('cls')
