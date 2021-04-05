@@ -10,4 +10,4 @@ Deep-Learning-Mask-Detection With Opencv in C++ to Pyhton (Client-Server)
 
 <br><br>
 
-<img src="Covid19-Mask-Detection/MaskDetection/Maskdetector.PNG">
+<img src="Maskdetector.PNG">
