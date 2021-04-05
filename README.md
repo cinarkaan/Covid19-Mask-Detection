@@ -1,5 +1,5 @@
 # Covid19-Mask-Detection
-Deep-Learning-Mask-Detection With Opencv in C++ to Pyhton (Client-Server-Cuda Requirement)
+Deep-Learning-Mask-Detection With Opencv in C++ to Pyhton (Client-Server-Cuda Requirement)<br>
 Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 
 
