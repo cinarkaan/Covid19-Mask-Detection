@@ -3,7 +3,7 @@ Deep-Learning-Mask-Detection With Opencv in C++ to Pyhton (Client-Server-Cuda Re
 Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 
 <h1>SCOPE</h1>
-<p>Covid-19, which started in 2019, has spread all over the world out of control. But people do not take any measures individually. For this reason, within the scope of this project, it is aimed to follow this situation by using deep learning and image processing techniques in order to follow whether people wear masks in any social environment (shopping mall, cafe, crowded streets, etc.).</p>
+<p>Covid-19, which started in 2019, has spread all over the world out of control. But people do not take any measures individually. For this reason, within the scope of this project, it is aimed to follow this situation by using deep learning and image processing techniques in order to follow whether people wear masks in any social environment (shopping mall, cafe, crowded streets, etc.). The AI System has %96 accuracy rate.</p>
 
 <h2>Minimum System Requirements (35 - 45 FPS)</h2> <br>
 
