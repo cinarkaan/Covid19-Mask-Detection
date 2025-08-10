@@ -25,9 +25,9 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 
 <h4>SOURCES</h4>
 
-<li><a href="https://docs.opencv.org/master/d9/df8/tutorial_root.html">Opencv</a>/li>
-<li><a href="https://www.tensorflow.org/install/source_windows">Tensorflow Version Table</a>/li>
-<li><a href="https://developer.nvidia.com/cuda-toolkit-archive">CUDA</a>/li>
+<li><a href="https://docs.opencv.org/master/d9/df8/tutorial_root.html">Opencv</a></li>
+<li><a href="https://www.tensorflow.org/install/source_windows">Tensorflow Version Table</a></li>
+<li><a href="https://developer.nvidia.com/cuda-toolkit-archive">CUDA</a></li>
 <li><a href="https://visualstudio.microsoft.com/vs/">Visual Studio - C++</a></li>
 <li><a href="">DATASET</a></li>
 <li><a href="https://www.python.org/">Python</a></li>
