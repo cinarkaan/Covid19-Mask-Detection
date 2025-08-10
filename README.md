@@ -5,7 +5,7 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <h1>SCOPE</h1>
 <p>Covid-19, which started in 2019, has spread all over the world out of control. But people do not take any measures individually. For this reason, within the scope of this project, it is aimed to follow this situation by using deep learning and image processing techniques in order to follow whether people wear masks in any social environment (shopping mall, cafe, crowded streets, etc.).</p>
 
-<h3>Minimum System Requirements (35 - 45 FPS)</h3> <br>
+<h2>Minimum System Requirements (35 - 45 FPS)</h2> <br>
 
 <ul>
 <li>Intel i5 quad core processor or Amd Ryzen 5 or more than</li>
@@ -13,7 +13,11 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li>8GB Ram (Recommended 12 or more than)</li>
 </ul>
 
-<h3>Requirements To Install Setup Environment</h3>
+<h2>Signaficant Note</h2>
+<p>Please review on the followings , to seamless installation. Espacially to setup tensorflow and cuda must be installed the matches versions each other as well as the python , c++ and their libs and VS.
+Otherwise none of them will no be worked.</p>
+
+<h2>Environment Requirements To Install Setup</h2>
 
 <ul>
 <li>Nvidia - Cuda</li>
@@ -24,11 +28,7 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li>Tensorforflow</li>
 </ul>
 
-<h4>Signaficant Note</h4>
-<p>Please review on the followings , to seamless installation. Espacially to setup tensorflow and cuda must be installed the matches versions each other as well as the python , c++ and their libs and VS.
-Otherwise none of them will no be worked.</p>
-
-<h4>SOURCES</h4>
+<h2>SOURCES</h2>
 
 <li><a href="https://docs.opencv.org/master/d9/df8/tutorial_root.html">Opencv</a></li>
 <li><a href="https://www.tensorflow.org/install/source_windows">Tensorflow Version Table</a></li>
@@ -37,6 +37,8 @@ Otherwise none of them will no be worked.</p>
 <li><a href="">DATASET</a></li>
 <li><a href="https://www.python.org/">Python</a></li>
 </ul>
+
+<h2>Sample Images</h2>
 
 <br><br>
 
