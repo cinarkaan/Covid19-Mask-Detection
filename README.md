@@ -4,7 +4,8 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 
 <h1>SCOPE</h1>
 <p>Covid-19, which started in 2019, has spread all over the world out of control. But people do not take any measures individually. For this reason, within the scope of this project, it is aimed to follow this situation by using deep learning and image processing techniques in order to follow whether people wear masks in any social environment (shopping mall, cafe, crowded streets, etc.).</p>
-<h3>System Requirements</h3> <br>
+
+<h3>Minimum System Requirements (35 - 45 FPS)</h3> <br>
 
 <ul>
 <li>Intel i5 quad core processor or Amd Ryzen 5 or more than</li>
@@ -22,6 +23,10 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li>OpenCV</li>
 <li>Tensorforflow</li>
 </ul>
+
+<h4>Signaficant Note</h4>
+<p>Please review on the followings , to seamless installation. Espacially to setup tensorflow and cuda must be installed the matches versions each other as well as the python , c++ and their libs and VS.
+Otherwise none of them will no be worked.</p>
 
 <h4>SOURCES</h4>
 
