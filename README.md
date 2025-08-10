@@ -33,7 +33,7 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li><a href="https://www.python.org/">Python</a></li>
 </ul>
 
-
+<br><br>
 
 <img src="Sample1.png">
 
