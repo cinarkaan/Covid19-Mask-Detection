@@ -10,7 +10,7 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li>8GB Ram (Recommended 12 or more than)</li>
 </ul>
 
-<h3>Requirements To Install Setup</h3>
+<h3>Requirements To Install Setup Environment</h3>
 
 <ul>
 <li>Nvidia - Cuda</li>
