@@ -2,6 +2,8 @@
 Deep-Learning-Mask-Detection With Opencv in C++ to Pyhton (Client-Server-Cuda Requirement)<br>
 Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 
+<h1>SCOPE</h1>
+<p>Covid-19, which started in 2019, has spread all over the world out of control. But people do not take any measures individually. For this reason, within the scope of this project, it is aimed to follow this situation by using deep learning and image processing techniques in order to follow whether people wear masks in any social environment (shopping mall, cafe, crowded streets, etc.).</p>
 <h3>System Requirements</h3> <br>
 
 <ul>
@@ -17,7 +19,21 @@ Deep-Learning And OpencvFace DNN MaskDetector (Cuda Requirement)
 <li>Visual Studio - C++</li>
 <li>Python</li>
 <li>Cmake</li>
+<li>OpenCV</li>
+<li>Tensorforflow</li>
 </ul>
+
+<h4>SOURCES</h4>
+
+<li><a href="https://docs.opencv.org/master/d9/df8/tutorial_root.html">Opencv</a>/li>
+<li><a href="https://www.tensorflow.org/install/source_windows">Tensorflow Version Table</a>/li>
+<li><a href="https://developer.nvidia.com/cuda-toolkit-archive">CUDA</a>/li>
+<li><a href="https://visualstudio.microsoft.com/vs/">Visual Studio - C++</a></li>
+<li><a href="">DATASET</a></li>
+<li><a href="https://www.python.org/">Python</a></li>
+</ul>
+
+
 
 <img src="Sample1.png">
 
